@@ -16,7 +16,7 @@ Repo for Microsoft Fabric Architecture
 ## Data Architecture
 1. Storage system (Lakehouse, Warehouse etc)
 2. Data Modelling
-3. Source system loading
+3. Source system Ingestion
 4. Batch loading processes
 5. Real-time Loading processes
 6. Analytics with Semantic Models
