@@ -1,7 +1,7 @@
 # fabric_architecture
 Repo for Microsoft Fabric Architecture & Data Modelling
 
-## Architecture split into areas:
+## Areas of Interest:
 1. Platform Architecture
 2. Data Architecture
 3. Data Modelling
