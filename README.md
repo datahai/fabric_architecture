@@ -1,15 +1,29 @@
 # fabric_architecture
-Repo for Microsoft Fabric Architecture
+Repo for Microsoft Fabric Architecture & Data Modelling
 
 ## Architecture split into areas:
 1. Platform Architecture
 2. Data Architecture
+3. Data Modelling
 
 ### Why Platform Architecture Matters
 Scalability: Supports growing data volumes and user demands.
 Flexibility: Adapts to new tools and technologies.
 Efficiency: Optimizes performance and resource usage.
 Security: Protects sensitive data and ensures compliance.
+
+### Why Data Architecture Matters
+Enables Data Accessibility and Usability
+Supports Scalability and Performance
+Ensures Data Quality and Governance
+
+### Why Data Modelling Matters
+Clarifies Business Requirements
+Improves Data Quality and Consistency
+Enhances System Design and Integration
+Supports Better Decision-Making
+
+All of the above ultimately leads to a data platform supporting Better Decision-Making
 
 ## Platform Architecture
 1. Tenant
