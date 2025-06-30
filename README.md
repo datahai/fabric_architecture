@@ -38,6 +38,8 @@ All of the above ultimately leads to a data platform supporting Better Decision-
 8. ALM (code deployment)
 9. IaC (Infastructure deployment)
 
+---
+
 ## Data Architecture
 1. Storage system (Lakehouse, Warehouse etc)
 2. Data Modelling
@@ -50,6 +52,8 @@ All of the above ultimately leads to a data platform supporting Better Decision-
 9. Compliance
 10. Governance (Purview etc)
 11. Scalability & Performance
+
+---
 
 ##Data Modelling
 1. SunBeam™ Data Modelling 
