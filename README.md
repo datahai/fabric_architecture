@@ -5,7 +5,7 @@ Architecture split into areas:
 1. Platform Architecture
 2. Data Architecture
 
-Platform Architecture
+## Platform Architecture
 1. Tenant
 2. Capacity
 3. Domains
@@ -13,7 +13,7 @@ Platform Architecture
 5. Network Security & Access
 6. Monitoring
 
-Data Architecture
+## Data Architecture
 1. Storage system (Lakehouse, Warehouse etc)
 2. Data Modelling
 3. Source system loading
