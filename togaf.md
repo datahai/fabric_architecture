@@ -1,12 +1,9 @@
 TOGAF with Microsoft Fabric:
 
 🔷 1. Preliminary Phase
-
-Define architecture principles and establish governance.
-
-Identify stakeholders and align with business strategy.
-
-Map Microsoft Fabric capabilities (e.g., OneLake, Data Factory, Power BI) to business needs.
+- Define architecture principles and establish governance.
+- Identify stakeholders and align with business strategy.
+- Map Microsoft Fabric capabilities (e.g., OneLake, Data Factory, Power BI) to business needs.
 
 🔷 2. Architecture Vision
 Create a high-level vision of the Microsoft Fabric solution.
