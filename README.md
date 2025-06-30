@@ -5,6 +5,12 @@ Repo for Microsoft Fabric Architecture
 1. Platform Architecture
 2. Data Architecture
 
+### Why Platform Archutecture Matters
+Scalability: Supports growing data volumes and user demands.
+Flexibility: Adapts to new tools and technologies.
+Efficiency: Optimizes performance and resource usage.
+Security: Protects sensitive data and ensures compliance.
+
 ## Platform Architecture
 1. Tenant
 2. Capacity
