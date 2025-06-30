@@ -20,7 +20,8 @@ Repo for Microsoft Fabric Architecture
 4. Batch loading processes
 5. Real-time Loading processes
 6. Data Access & Analytics layer
-7. Security
-8. Compliance
-9. Governance (Purview etc)
-10. Scalability & Performance
+7. Orchestration
+8. Security
+9. Compliance
+10. Governance (Purview etc)
+11. Scalability & Performance
