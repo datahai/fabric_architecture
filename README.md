@@ -12,6 +12,9 @@ Repo for Microsoft Fabric Architecture
 4. Workspace
 5. Network Security & Access
 6. Monitoring
+7. Automation
+8. ALM (code deployment)
+9. IaC (Infastructure deployment)
 
 ## Data Architecture
 1. Storage system (Lakehouse, Warehouse etc)
