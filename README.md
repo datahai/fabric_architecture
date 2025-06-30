@@ -25,3 +25,7 @@ Repo for Microsoft Fabric Architecture
 9. Compliance
 10. Governance (Purview etc)
 11. Scalability & Performance
+
+##Data Modelling
+1. SunBeam™ Data Modelling 
+2. Agile Data Warehouse
