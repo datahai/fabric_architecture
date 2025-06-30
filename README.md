@@ -23,7 +23,9 @@ Repo for Microsoft Fabric Architecture & Data Modelling
 - Enhances System Design and Integration
 - Supports Better Decision-Making
 
-All of the above ultimately leads to a data platform supporting Better Decision-Making
+All of the above ultimately leads to a data platform supporting Better Decision-Making.
+
+---
 
 ## Platform Architecture
 1. Tenant
